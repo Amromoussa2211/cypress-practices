@@ -19,19 +19,19 @@ This repository contains various test practices using [Cypress](https://www.cypr
 Make sure you have Node.js installed. You can download and install it from [here](https://nodejs.org/).
 
 ### 2. Clone the repository:
-    ```git clone https://github.com/3bsatar/cypress-practices.git
+    git clone https://github.com/3bsatar/cypress-practices.git
 ### 3. Install the dependencies:
-     ```npm install
+     npm install
 ### 4. Open Cypress Test Runner
-    ```npx cypress open
+    npx cypress open
 
 
 ## Project Structure
-  -cypress/integration/: Contains the test files.
+  - cypress/integration/: Contains the test files.
 
-  -cypress/fixtures/: Test data for use in the tests.
+  - cypress/fixtures/: Test data for use in the tests.
 
-  -cypress/support/: Custom commands and setup for tests.
+  - cypress/support/: Custom commands and setup for tests.
 
 ## Test Cases
   Example test structure:
